@@ -33,7 +33,7 @@ DMS is a comprehensive Distribution Management System designed for hybrid busine
 ## Setup Instructions
 1. **Clone the Repository:**
    ```
-   git clone <https://github.com/hamzaiqbal35/DMS.git>
+   git clone https://github.com/hamzaiqbal35/Distribution-Management-System_Ecommerce-Website.git
    ```
 2. **Database Setup:**
    - Import `inc/config/database.sql` into your MySQL server.
